@@ -1,0 +1,47 @@
+
+!input{beamer.mrk}
+
+!beamer
+!title Slides
+!author Username
+!gpath{figs/}
+!begin
+
+!maketitle
+
+
+!clr
+= Header
+> line1
+- item1
+- item2
+
+
+!clr
+!section Title
+> line1
+- item1
+- item2
+
+!clr
+!section Title
+> line1
+- item1
+- item2
+
+!clr
+!section Another section
+> line1
+- item1
+- item2
+!fig{20170930190844--shot.png}
+
+!clr
+> line1
+- item1
+- item2
+- item2
+- item2
+!fig{20170930190844--shot.png}
+
+!enddoc
